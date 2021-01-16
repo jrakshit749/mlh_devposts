@@ -1,0 +1,6 @@
+http://127.0.0.1:8000/admin/auth/user/
+
+accounts/
+accounts/login
+accounts/register
+accounts/dashboard
